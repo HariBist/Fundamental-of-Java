@@ -15,7 +15,8 @@ public class FlowControlLayout {
         f.add(b3);
         f.add(b2);
         f.add(b1);
-        f.setLayout(new FlowLayout());
+        // f.setLayout(new FlowLayout()); //here different type of constructor are in flowLayout
+        f.setLayout(new FlowLayout(FlowLayout.RIGHT));
         f.setSize(300,200);
         f.setVisible(true);
     }
