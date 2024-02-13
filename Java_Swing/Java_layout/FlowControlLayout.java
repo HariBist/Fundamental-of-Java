@@ -1,4 +1,3 @@
-package Java_Swing.Java_layout;
 import java.awt.*;
 import javax.swing.*;
 

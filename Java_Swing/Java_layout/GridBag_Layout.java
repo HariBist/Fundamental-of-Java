@@ -1,4 +1,3 @@
-package Java_Swing.Java_layout;
 //GridBag Layout is a flexible layout manager that aligns component vertically and horizontally,
 //requiring that the components be of the same size. It maintains a dynamic rectangular grid cells with each
 //component occupying one or more cells.

@@ -1,4 +1,4 @@
-package Java_Swing.Java_layout;
+
 import java.awt.BorderLayout;
 import javax.swing.*;
 public class borderLayout {

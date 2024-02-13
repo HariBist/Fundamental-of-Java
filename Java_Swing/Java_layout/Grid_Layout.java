@@ -1,4 +1,3 @@
-package Java_Swing.Java_layout;
 import java.awt.GridLayout;
 //Grid layout organize the components in a two dimensional grid.
 //it simply create equal-sized components and arranges them in the desired number of rows and columns.
